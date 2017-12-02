@@ -1,3 +1,8 @@
 # hello-world
-First try 
-make and commit changes
+
+#include<stdio.h>
+int main()
+{
+  printf("hello, world\n");
+  return 0;
+}
